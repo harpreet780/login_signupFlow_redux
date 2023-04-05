@@ -18,6 +18,7 @@ let initialState = {
         password: "",
         password_confirmation: "",
     },
+    updateProfile: null,
 }
 
 
